@@ -4,7 +4,7 @@
 
 O objetivo desse projeto é apresentar para o público os dados mais relevantes sobre o COVID-19, assim como o progresso da vacinação e diminuição dos casos. <br />
 A necessidade de elaborar o projeto surgiu a partir da insegurança das pessoas em relação aos dados divulgados por grandes emissoras brasileiras. <br />
-Com os dashboards disponibilizados nesse projeto, todos poderão verificar a fonte de dados e analisar sem viéis (bias).
+<p>Com os dashboards disponibilizados nesse projeto, todos poderão verificar a fonte de dados e analisar sem viéis (bias).</p>
 
 <p>As fontes dos datasets utilizados nesse projeto você encontrará no final desse notebook.</p>
 
