@@ -14,7 +14,7 @@ O objetivo desse projeto é apresentar para o público os dados mais relevantes 
 
 ### Dados que vou utilizar nas visualizações: 
 
-Total de pessoas vacinadas x pessoas não vacinadas
-Gráfico de pizza de pessoas em estado de emergência x pessoas em estado "normal"
-Pessoas mortas x pessoas infectadas x população (Gráfico de linha)
+- Total de pessoas vacinadas x Pessoas não vacinadas
+- Pessoas em estado de emergência x Pessoas com sintomas leves
+- Pessoas falecidas x Pessoas infectadas x População total
 
