@@ -8,4 +8,13 @@ O objetivo desse projeto é apresentar para o público os dados mais relevantes 
 <p>A proposta desse código é ser educacional, logo vou comentando os passos que estou fazendo em cada célula do Jupyter's notebook.</p>
 <p>As fontes dos datasets utilizados nesse projeto você encontrará no final desse notebook.</p>
 
+### Ordem dos arquivos criados para acompanhar:
+
+1. main.py (contém o código principal da transformação dos dados)
+
+### Dados que vou utilizar nas visualizações: 
+
+Total de pessoas vacinadas x pessoas não vacinadas
+Gráfico de pizza de pessoas em estado de emergência x pessoas em estado "normal"
+Pessoas mortas x pessoas infectadas x população (Gráfico de linha)
 
