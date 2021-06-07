@@ -7,6 +7,6 @@ A necessidade de elaborar o projeto surgiu a partir da insegurança das pessoas 
 Com os dashboards disponibilizados nesse projeto, todos poderão verificar a fonte de dados e analisar sem viéis (bias).
 <p>As fontes dos datasets utilizados nesse projeto você encontrará no final desse notebook.</p>
 
-<p>Agradecimento especial ao Google por me introduzir a ciência de dados através do programa Google Data Analyst Professional e a IBM pela certificação em Ciência de Dados: Python Introduction</p>
+<p>Agradecimento especial ao Google por me introduzir a ciência de dados através do programa Google Data Analyst Professional e a IBM pela certificação em Ciência de Dados:.</p>
 
 <p>Sinta-se livre para reutilizar o dashboard, porém o layout é propriedade exclusiva do autor e da ATLAS Inteligência.</p>
