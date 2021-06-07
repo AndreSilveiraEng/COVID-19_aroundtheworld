@@ -19,3 +19,6 @@ O objetivo desse projeto é apresentar para o público os dados mais relevantes 
 - Pessoas em estado de emergência x Pessoas com sintomas leves
 - Pessoas falecidas x Pessoas infectadas x População total
 
+**Colabore com o projeto efetuando a primeira etapa de pesquisa: https://forms.gle/gh8VyAWkKaskn7iV9 <br />
+Leva apenas 70 segundos e ajudará a coletar uma amostra de dados com qualidade. <br />
+O prazo para preenchimento do formulário é até 11/06/2021.
