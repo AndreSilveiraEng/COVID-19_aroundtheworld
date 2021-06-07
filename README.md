@@ -10,7 +10,8 @@ O objetivo desse projeto é apresentar para o público os dados mais relevantes 
 
 **Ordem dos arquivos criados para acompanhar:**
 
-1. main.py (contém o código principal da transformação dos dados)
+1. COVID_cleaning.ipynb (Arquivo do Jupyter's Notebook com o passo-a-passo)
+2. main.py (contém o código principal da transformação dos dados)
 
 **Dados que vou utilizar nas visualizações:**
 
