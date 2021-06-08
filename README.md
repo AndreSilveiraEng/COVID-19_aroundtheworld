@@ -20,4 +20,5 @@ O objetivo desse projeto é apresentar para o público os dados mais relevantes 
 
 **Colabore com o projeto efetuando a primeira etapa de pesquisa: https://forms.gle/gh8VyAWkKaskn7iV9 <br />
 Leva apenas 70 segundos e ajudará a coletar uma amostra de dados com qualidade. <br />
-O prazo para preenchimento do formulário é até 11/06/2021.**
+O prazo para preenchimento do formulário é até 11/06/2021.**  <p>
+**Novos Updates no dia 12/06/2021 às 19:00h**
