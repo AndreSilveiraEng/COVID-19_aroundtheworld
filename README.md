@@ -2,6 +2,8 @@
 
 ## Dados reais de pessoas reais sobre a atual situação mundial do coronavírus.
 
+### Descrição do projeto e sua organização
+
 O objetivo desse projeto é apresentar para o público os dados mais relevantes sobre o COVID-19, assim como o progresso da vacinação e diminuição dos casos. A necessidade de elaborar o projeto surgiu a partir da insegurança das pessoas em relação aos dados divulgados por grandes emissoras brasileiras. Com os dashboards disponibilizados nesse projeto, todos poderão verificar a fonte de dados e analisar sem viéis (bias).
 
 <p>A proposta desse código é ser educacional, logo vou comentando os passos que estou fazendo em cada célula do Jupyter's notebook.</p>
@@ -23,6 +25,6 @@ Leva apenas 70 segundos e ajudará a coletar uma amostra de dados com qualidade.
 O prazo para preenchimento do formulário é até 11/06/2021.**  <p>
 **Novos Updates no dia 12/06/2021 às 19:00h**
 
-**Origem dos datasets e suas estruturas:** <br /><p>
+###Origem dos datasets e suas estruturas:
 **COVID-19 Overview:** ```\\datasets\\owid-covid-data_kaggler.csv``` (original) <br />
 ```\\datasets\\COVID-19_overview.csv``` (processado) 
