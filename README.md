@@ -22,3 +22,7 @@ O objetivo desse projeto é apresentar para o público os dados mais relevantes 
 Leva apenas 70 segundos e ajudará a coletar uma amostra de dados com qualidade. <br />
 O prazo para preenchimento do formulário é até 11/06/2021.**  <p>
 **Novos Updates no dia 12/06/2021 às 19:00h**
+
+<p> **Origem dos datasets e suas estruturas:** <br />
+**COVID-19 Overview:** ```\\datasets\\owid-covid-data_kaggler.csv``` (original) <br />
+```\\datasets\\COVID-19_overview.csv``` (processado) 
