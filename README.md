@@ -28,4 +28,5 @@ O prazo para preenchimento do formulário é até 11/06/2021.**  <p>
 ### Origem dos datasets e suas estruturas
 
 **COVID-19 Overview:** ```\\datasets\\owid-covid-data_kaggler.csv``` (original) <br />
-```\\datasets\\COVID-19_overview.csv``` (processado) 
+```\\datasets\\COVID-19_overview.csv``` (processado) <br />
+  **Link do Dataset:** https://www.kaggle.com/aditeloo/the-world-dataset-of-covid19?rvi=1
